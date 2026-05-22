@@ -120,5 +120,3 @@ A análise exploratória da base de dados de estações de recarga de veículos 
 * **Open Charge Point Protocol (OCPP) — Open Charge Alliance.** Disponível em: openchargealliance.org.
 * **MODBUS Protocol Specification — Modbus Organization.** Disponível em: modbus.org.
 
-
-print("File README.md successfully created.")
