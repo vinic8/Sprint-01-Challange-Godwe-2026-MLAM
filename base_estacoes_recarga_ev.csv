@@ -1,0 +1,386 @@
+Nome_Estacao,Cidade,Tipo_Local,Conector_Predominante,Porte_Estacao,Faixa_Disponibilidade,Qtd_Level2,Qtd_DC_Fast,Total_Conectores,Sessoes_Mensais,Potencia_Maxima_kW,Tarifa_Media_kWh,Latitude,Longitude
+BMW OF DARIEN,Darien,Concessionaria,Level 2,Pequeno,Integral,2,0,2,29,3.45,0.2208,41.072882,-73.4764687
+Dunkin’ - Tesla Supercharger,Meriden,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,8,8,353,80.44,0.3961,41.527367,-72.773473
+Town of Beacon Falls - Commuter Lot,Beacon Falls,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,47,13.85,0.2273,41.44548100000001,-73.065583
+OLD SAYBROOK VW,Old Saybrook,Concessionaria,Level 2,Pequeno,Integral,2,0,2,40,3.38,0.2519,41.3102778,-72.3825
+Fairfield Rail Station,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,50,5.86,0.3345,41.143125,-73.264511
+FOUNDRY66,Norwich,Outro,Level 2,Pequeno,Integral,2,0,2,44,12.02,0.2711,41.525611,-72.0741188
+Corbins Corner Shopping Center - Tesla Supercharger,West Hartford,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,8,8,447,257.57,0.4001,41.722672,-72.759717
+GLASTONBURYEV,Glastonbury,Outro,Level 2,Pequeno,Integral,2,0,2,70,13.67,0.2258,41.711717,-72.6086744
+Whole Foods Market,Darien,Comercio/Varejo,Level 1,Medio,Horario Comercial,0,0,4,109,1.33,0.1288,41.072919,-73.476189
+Mystic Marriott Hotel and Spa,Groton,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,1,0,1,36,14.62,0.2061,41.365973,-72.026147
+Brass Mill Center - Shoppers World,Waterbury,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,66,7.07,0.2253,41.550922,-73.025659
+University of Connecticut Health - Center Garage,Farmington,Publico/Governamental,Level 2,Medio,Integral,4,0,4,162,8.47,0.2418,41.730405,-72.79061800000001
+D'Addario Nissan,Shelton,Concessionaria,DC Fast,Pequeno,Horario Comercial,1,1,2,35,273.95,0.3266,41.299792,-73.106051
+CT RAIL,Wallingford,Outro,Level 2,Pequeno,Integral,2,0,2,50,13.63,0.2133,41.4618954,-72.8231924
+Hampton Inn & Suites Rocky Hill - Hartford South - Tesla Destination,Rocky Hill,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,2,0,2,68,16.8,0.2181,41.650999,-72.679679
+Goodwives Shopping Center,Darien,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,45,247.28,0.3691,41.078282,-73.466318
+City of New Haven - Union Station Garage,New Haven,Publico/Governamental,Level 2,Medio,Integral,3,0,3,59,12.34,0.231,41.297487000000004,-72.926722
+Easton Public Library,Easton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,48,4.79,0.2546,41.251966,-73.297822
+The Plaza at Buckland Hills - Tesla Supercharger,Manchester,Comercio/Varejo,DC Fast,Muito Grande,Integral Restrito,0,16,16,790,160.31,0.3755,41.80452,-72.562282
+Greenlots - 92367,Colebrook,Outro,Level 2,Pequeno,Integral,2,0,2,34,7.52,0.3036,41.988528,-73.138786
+Mystic Diner Restaurant - Tesla Destination,Mystic,Rede de Recarga,Level 2,Pequeno,Integral Restrito,1,0,1,54,7.18,0.2059,41.37356200000001,-71.961361
+Connecticut Airport Authority - Bradley Airport,Windsor Locks,Outro,Level 2,Medio,Integral,4,0,4,140,18.77,0.3199,41.929342,-72.670609
+University of Connecticut - Motor Pool,Storrs,Publico/Governamental,Level 2,Pequeno,Horario Comercial,1,0,1,17,9.55,0.2942,41.811817,-72.261825
+Hammonasset Beach State Park - South,Madison,Outro,Level 2,Medio,Integral,4,0,4,152,17.48,0.2123,41.263416,-72.560456
+Schaller Mitsubishi,New Britain,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,26,13.34,0.331,41.649365,-72.770648
+Mansfield Public Library,Mansfield,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,48,15.94,0.3381,41.768396,-72.195701
+WESTLODGE,Torrington,Outro,Level 2,Pequeno,Integral,2,0,2,40,11.29,0.2092,41.8750604,-73.1049768
+TOWNHALL,Harwinton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,35,12.47,0.2415,41.7640244,-73.070231
+University of Connecticut - Avery Point,Groton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,92,11.13,0.3209,41.317722,-72.065994
+Middletown School District - Lawrence Elementary School,Middletown,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,77,6.4,0.3122,41.5871612,-72.6824246
+Fairfield Mitsubishi,Fairfield,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,15,14.79,0.2277,41.176442,-73.230597
+Gates Nissan,North Windham,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,18,7.76,0.2314,41.728247,-72.188445
+Water's Edge Resort and Spa - Tesla Destination,Westbrook,Hotel/Hospedagem,Level 2,Medio,Integral,3,0,3,108,3.69,0.2556,41.28006,-72.43786
+North Haven PaviIion,North Haven,Outro,DC Fast,Medio,Integral,0,6,6,216,243.64,0.3727,41.353572,-72.870574
+UNION STATION,New Haven,Outro,Level 2,Grande,Integral,10,0,10,430,6.12,0.2927,41.2975353,-72.9270748
+Torrington Town Hall,Torrington,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,28,18.25,0.2553,41.803497,-73.12122300000001
+Crowley Nissan,Bristol,Concessionaria,Level 2,Medio,Horario Comercial,2,1,3,81,336.18,0.2694,41.699374,-72.894672
+Parthenon Diner Restaurant - Tesla Destination,Branford,Rede de Recarga,Level 2,Pequeno,Integral Restrito,1,0,1,46,17.85,0.3121,41.296212,-72.781436
+Town of Mansfield - Community Center,Mansfield,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,45,9.19,0.2055,41.800421,-72.242231
+Manchester City Nissan,Manchester,Concessionaria,Level 2,Pequeno,Horario Comercial,2,0,2,57,3.55,0.2379,41.814316,-72.507845
+City of Meriden - City Hall,Meriden,Publico/Governamental,Level 2,Medio,Integral,4,0,4,105,18.06,0.307,41.536236,-72.797226
+City of New Haven - Sherman Tyler Lot,New Haven,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,92,10.11,0.3343,41.306474,-72.948514
+City of Meriden - Meriden Public Library,Meriden,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,92,18.67,0.2768,41.537218,-72.796702
+Blogoslawski Parking Garage,New Britain,Outro,Level 2,Pequeno,Integral,2,0,2,60,18.62,0.2798,41.664356600000005,-72.7788286
+Comfort Inn Guilford - Tesla Destination,Guilford,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,2,0,2,52,16.86,0.2161,41.287164,-72.657682
+Brass Mill Center - Entrance 5,Waterbury,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,88,7.98,0.2671,41.549361,-73.02614
+Town of Simsbury - Town Hall,Simsbury,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,96,9.42,0.2799,41.983904,-72.489406
+Connecticut Legislative Parking Garage,Hartford,Outro,Level 2,Medio,Horario Comercial,5,0,5,145,16.83,0.2364,41.765434,-72.684758
+Middletown School District - Moody School,Middletown,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,96,8.34,0.2404,41.563917,-72.711926
+Barberino Nissan,Wallingford,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,23,5.99,0.2566,41.467376,-72.817586
+CityPlace Garage,Hartford,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,57,12.15,0.203,41.766656,-72.676489
+CURRAN VOLKSWAG,Stratford,Outro,Level 2,Pequeno,Integral,2,0,2,74,18.18,0.2483,41.198568,-73.132624
+"Inn at Stonington, a Select Registry Property - Tesla Destination",Stonington,Hotel/Hospedagem,Level 2,Medio,Integral Restrito,3,0,3,91,14.37,0.2317,41.331744,-71.906918
+"Westport Town Hall 110 Myrtle Ave Westport, CT 06880",Westport,Publico/Governamental,Level 2,Pequeno,Variavel,2,0,2,85,12.36,0.2491,41.145215689458,-73.35947443366
+STARWOOD,Stamford,Outro,Level 2,Pequeno,Integral,2,0,2,34,4.85,0.218,41.0409048,-73.5318605
+Popeyes Kitchen - Fairfield Pizza,Stratford,Outro,DC Fast,Pequeno,Integral,0,1,1,19,234.5,0.4336,41.202742,-73.117486
+Dunkin' Donuts - Tesla Supercharger,Waterbury,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,8,8,343,347.02,0.389,41.53713,-73.005613
+Crest Ford,Niantic,Concessionaria,Level 2,Pequeno,Integral,1,0,1,14,5.53,0.3019,41.354043,-72.211435
+Central Connecticut State University - Sheridan Dorm Lot,New Britain,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,38,11.54,0.3184,41.692973,-72.762739
+LIBRARY KIOSK,New Milford,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,25,17.25,0.2748,41.5785572,-73.41116
+Hotel HiHo - Tesla Destination,Fairfield,Hotel/Hospedagem,Level 2,Medio,Integral Restrito,3,0,3,56,15.08,0.213,41.203858,-73.271401
+Summer Street Garage,Stamford,Outro,Level 2,Medio,Variavel,3,0,3,96,14.38,0.2806,41.054155,-73.541625
+MUNICIP STATION,Newtown,Outro,Level 2,Pequeno,Integral,2,0,2,36,14.47,0.288,41.4007757,-73.2847962
+PURDUE PHARMA,Stamford,Outro,Level 2,Medio,Integral,4,0,4,156,9.02,0.3118,41.050574,-73.53779
+Hartford High School,Hartford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,58,7.97,0.2647,41.765034,-72.701271
+Bloomfield Town Hall,Bloomfield,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,61,16.17,0.2191,41.8298475,-72.7373929
+GUNNERY,Washington,Outro,Level 2,Pequeno,Integral,2,0,2,64,16.18,0.2426,41.628033,-73.3124
+University of Connecticut - Storrs Center Garage,Storrs,Publico/Governamental,Level 2,Medio,Integral,4,0,4,176,17.09,0.2545,41.8041965,-72.2442218
+JAGLRNH,North Haven,Outro,Level 2,Pequeno,Integral,2,0,2,46,17.82,0.2969,41.4168397,-72.8415278
+Town of Stafford - Town Hall,Stafford Springs,Concessionaria,Level 2,Medio,Integral,4,0,4,112,11.43,0.2856,41.953668,-72.303231
+Charter Oak International Academy,West Hartford,Outro,Level 2,Pequeno,Integral,2,0,2,70,11.27,0.2534,41.742975,-72.722829
+Town of Newington - Market Square,Newington,Publico/Governamental,Level 2,Medio,Integral,4,0,4,70,15.99,0.348,41.6972,-72.7214
+Riverfield School,Fairfield,Publico/Governamental,Level 2,Pequeno,Variavel,2,0,2,74,13.63,0.2909,41.162306,-73.267585
+Capital Regional Development Authority (CRDA),Hartford,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,84,14.46,0.2356,41.763287,-72.670165
+The SoNo Collection,Norwalk,Outro,Level 2,Grande,Horario Comercial,10,0,10,290,15.95,0.2153,41.104791,-73.418883
+City of New Haven - Whalley Blake Parking Lot,New Haven,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,92,17.45,0.2229,41.327848,-72.960178
+Riverview Cinemas 8 and Playhouse - Tesla Destination,Southbury,Rede de Recarga,Level 2,Medio,Integral Restrito,4,0,4,126,8.67,0.2369,41.465044,-73.230644
+The Ridgefield Playhouse,Ridgefield,Outro,Level 2,Pequeno,Integral,2,0,2,52,9.27,0.2241,41.282264,-73.492605
+Meriden Station Garage,Meriden,Outro,Level 2,Medio,Integral,3,0,3,129,4.79,0.228,41.539218,-72.802667
+HONDA WESTPORT,Westport,Concessionaria,Level 2,Medio,Integral,3,0,3,46,12.49,0.2428,41.138623,-73.317072
+FOXWOODS,Mashantucket,Outro,Level 2,Pequeno,Integral,2,0,2,58,3.87,0.226,41.4733521,-71.9600027
+TOWN HALL LOT,East Hartford,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,37,10.7,0.3345,41.7660404,-72.6446905
+FOXWOODS,Ledyard,Outro,Level 2,Pequeno,Integral,2,0,2,56,11.93,0.212,41.4733358,-71.9600034
+Plainville High School,Plainville,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,34,7.86,0.2787,41.6659341,-72.8580302
+Connecticut Welcome Center - Tesla Supercharger,Darien,Rede de Recarga,DC Fast,Medio,Integral Restrito,0,4,4,108,227.25,0.3616,41.067306,-73.504917
+Whole Foods Market,Fairfield,Comercio/Varejo,Level 2,Pequeno,Horario Comercial,1,0,1,41,3.78,0.3474,41.157925,-73.240315
+Tamarack Country Club - Tesla Destination,Greenwich,Rede de Recarga,Level 2,Medio,Integral Restrito,3,0,3,99,3.89,0.2168,41.094294,-73.709755
+Madison Beach Hotel - Tesla Destination,Madison,Hotel/Hospedagem,Level 2,Pequeno,Integral,2,0,2,32,16.38,0.2597,41.27077,-72.608573
+Newington Electric,Newington,Outro,Level 2,Medio,Integral,3,0,3,48,9.03,0.3454,41.65514,-72.729203
+Premier Kia,Branford,Concessionaria,Level 2,Pequeno,Integral,1,0,1,30,5.32,0.3298,41.289894,-72.809324
+The Shoppes at Fox Run 1,Glastonbury,Outro,DC Fast,Pequeno,Integral,0,2,2,40,206.67,0.4226,41.714088,-72.608292
+NBCSG,Stamford,Outro,Level 2,Muito Grande,Integral,14,0,14,504,15.54,0.2387,41.054321,-73.516045
+EDENS BISHOPS,West Hartford,Outro,Level 2,Pequeno,Integral,2,0,2,48,6.73,0.2256,41.784487,-72.7479436
+Propark - Water Street Garage,New London,Outro,Level 2,Grande,Variavel,4,0,12,216,13.2,0.3003,41.355486,-72.093784
+Connecticut Post Mall - Tesla Supercharger,Milford,Comercio/Varejo,DC Fast,Muito Grande,Integral Restrito,0,14,14,655,75.6,0.4394,41.238119,-73.036133
+Manchester Honda,Manchester,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,30,4.12,0.2835,41.795898,-72.552974
+New London Mall - Tesla Supercharger,New London,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,8,8,332,209.41,0.3857,41.370726,-72.119376
+Plainville Municipal Center,Plainville,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,44,11.9,0.242,41.6717114,-72.8670212999999
+The Study at Yale - Tesla Destination,New Haven,Rede de Recarga,Level 2,Pequeno,Integral Restrito,2,0,2,78,13.44,0.3154,41.308741,-72.932698
+Connecticut Science Center,Hartford,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,32,14.84,0.2281,41.764376,-72.668833
+Windham High School,Windham,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,52,18.82,0.2486,41.723169,-72.214432
+BIG Y FOODS,Shelton,Outro,Level 2,Pequeno,Integral,2,0,2,88,11.51,0.2638,41.29434,-73.11066
+WHOLE FOODS MKT,Danbury,Comercio/Varejo,Level 2,Pequeno,Integral,1,0,1,23,8.44,0.2761,41.3777667,-73.475576
+I-95 Madison NB Service Plaza - Tesla Supercharger,Madison,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,10,10,364,288.56,0.3364,41.2904885216395,-72.5804966772461
+Canton Town Hall,Canton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,66,7.61,0.2172,41.811022,-72.923177
+UNION STATION,New Haven,Outro,Level 2,Pequeno,Integral,2,0,2,58,10.28,0.2916,41.2974027,-72.9263108
+TOD,Durham,Outro,Level 2,Pequeno,Integral,2,0,2,44,4.55,0.2433,41.472228,-72.6809263
+Delamar Southport - Tesla Destination,Fairfield,Rede de Recarga,Level 2,Medio,Integral Restrito,3,0,3,126,3.7,0.2872,41.146162,-73.245943
+Andrew Ward School,Fairfield,Publico/Governamental,Level 2,Pequeno,Variavel,2,0,2,81,18.61,0.2232,41.185685,-73.234423
+Connecticut Department of Energy and Environmental Protection,Hartford,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,84,16.59,0.2722,41.763294,-72.678633
+Arapahoe Parking Lot,West Hartford,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,39,14.37,0.2799,41.759108000000005,-72.744596
+Southington Public Library,Southington,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,96,9.8,0.2078,41.596225,-72.877465
+NBCSG,Stamford,Outro,Level 2,Pequeno,Integral,2,0,2,44,6.06,0.2505,41.053776,-73.5160406
+Paul Miller Nissan,Fairfield,Concessionaria,DC Fast,Pequeno,Horario Comercial,1,1,2,49,96.93,0.3202,41.167407,-73.233711
+Town of New Fairfield - Town Hall,New Fairfield,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,33,7.28,0.2095,41.465514,-73.487032
+Chip's Family Restaurant - Tesla Destination,Orange,Rede de Recarga,Level 2,Pequeno,Integral Restrito,2,0,2,81,12.03,0.3485,41.2645,-73.004741
+George Harte Nissan,West Haven,Concessionaria,Level 2,Medio,Horario Comercial,2,1,3,67,264.38,0.2484,41.307602,-72.968506
+STOP SHOP,Darien,Outro,DC Fast,Pequeno,Integral,0,1,1,29,248.06,0.4215,41.070243,-73.4948097
+East Shore District Health Department,Branford,Outro,Level 2,Medio,Integral,6,0,6,210,7.75,0.2382,41.305071,-72.756902
+Ridgefield BMW,Ridgefield,Concessionaria,Level 2,Pequeno,Horario Comercial,2,0,2,53,18.48,0.3022,41.331117,-73.472615
+Big Y,Old Saybrook,Outro,Level 2,Pequeno,Integral,1,0,1,40,15.03,0.314,41.28648200000001,-72.416634
+Green Farms Plaza,Westport,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,50,216.31,0.3893,41.138478,-73.314364
+Bridgeport Hospital,Bridgeport,Outro,Level 2,Pequeno,Integral,2,0,2,84,13.03,0.2707,41.190701,-73.166282
+Town of Stafford - Community Center,Stafford Springs,Concessionaria,Level 2,Pequeno,Integral,1,0,1,29,9.97,0.2618,41.956727,-72.289249
+Constitution Plaza - South,Hartford,Comercio/Varejo,Level 2,Pequeno,Integral Restrito,1,0,1,54,7.24,0.2523,41.767185,-72.670032
+Coventry Town Hall,Coventry,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,59,8.96,0.3394,41.780058,-72.312334
+Curran Volkswagen,Stratford,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,23,15.35,0.3246,41.198467,-73.131808
+644 West Putnam,Greenwich,Outro,Level 2,Medio,Variavel,3,0,3,129,3.53,0.3448,41.016928,-73.6476069
+Grove Street Parking Garage,New Haven,Outro,Level 2,Pequeno,Variavel,2,0,2,58,5.15,0.2186,41.3103893,-72.9217309
+Mohegan Sun - Tesla Destination,Uncasville,Rede de Recarga,Level 2,Medio,Integral Restrito,5,0,5,202,4.03,0.3096,41.488423,-72.08668800000001
+CVS West Haven,West Haven,Outro,DC Fast,Pequeno,Integral,0,1,1,15,62.22,0.4408,41.268415,-72.948327
+Central Connecticut State University - Vance Garage,New Britain,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,85,16.9,0.2272,41.690789,-72.766414
+City of New Haven - Crown Street Parking Garage,New Haven,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,46,14.49,0.21,41.305993,-72.928864
+Figaro Restaurant,Enfield,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,23,10.84,0.3112,41.997588,-72.583384
+Middletown School District - Board of Education,Middletown,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,83,4.86,0.2862,41.541535,-72.647076
+Mansfield Parking Garage,Storrs,Outro,Level 2,Medio,Horario Comercial,4,0,4,60,11.12,0.3263,41.804877,-72.243355
+Brass Mill Center - Entrance 6,Waterbury,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,52,10.83,0.221,41.55022,-73.026799
+Ellington Town Hall,Ellington,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,48,6.05,0.3193,41.903582,-72.467484
+Fairfield Tennis Center,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,76,10.2,0.2302,41.1247386999999,-73.2665157
+Trinity College,Hartford,Publico/Governamental,Level 2,Medio,Integral,4,0,4,110,9.64,0.2245,41.745582,-72.689438
+Saugatuck Fire Station,Westport,Outro,Level 2,Grande,Variavel,7,0,7,231,13.09,0.2246,41.119206,-73.370496
+COMCAST,Berlin,Outro,Level 2,Medio,Integral,4,0,4,124,13.4,0.3222,41.597163,-72.749512
+Kent Town Hall,Kent,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,48,4.02,0.2998,41.727419,-73.47251
+Dunkin' Donuts,Manchester,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,22,162.38,0.3785,41.797073,-72.555059
+County Line Nissan - North,Torrington,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,11,13.25,0.2538,41.8269547,-73.1107105
+TOWN OF MADISON,Madison,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,33,11.3,0.3316,41.28028400000001,-72.595184
+Rocky Neck State Park,Niantic,Outro,Level 2,Pequeno,Variavel,2,0,2,82,16.92,0.2589,41.300883,-72.24323
+ELEMENT STATION,Stamford,Outro,Level 2,Pequeno,Integral,2,0,2,38,13.77,0.3225,41.0631099,-73.5370682
+Saybrook Point Marina,Old Saybrook,Outro,Level 2,Pequeno,Integral,1,0,1,24,5.89,0.2659,41.283487,-72.351019
+Town of Groton - Town Hall,Groton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,46,4.42,0.2565,41.345816,-72.033489
+Harte Nissan,Hartford,Concessionaria,DC Fast,Pequeno,Horario Comercial,1,1,2,56,242.73,0.3694,41.791382000000006,-72.656681
+Highland Park Market,Manchester,Comercio/Varejo,Level 2,Pequeno,Integral,2,0,2,59,3.72,0.2452,41.766005,-72.490259
+Nissan - Norwich,Norwich,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,29,12.61,0.3121,41.498591,-72.097938
+Wesleyan University,MIddletown,Publico/Governamental,Level 1,Pequeno,Integral,0,0,2,46,1.76,0.1754,41.557262,-72.65242
+HAMPTON INN,Milford,Hotel/Hospedagem,DC Fast,Medio,Integral,0,4,4,82,222.64,0.3348,41.22269,-73.076682
+Aitoro Appliance,Norwalk,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,22,9.47,0.3349,41.126373,-73.390319
+Putnam Downtown Municipal Parking Lot,Putnam,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,28,13.53,0.2576,41.914329,-71.9105761999999
+NYALA GAR 3,Westport,Outro,Level 2,Pequeno,Integral,2,0,2,32,10.59,0.2815,41.1223426,-73.3269248
+WHOLE FOODS MKT,Danbury,Comercio/Varejo,Level 2,Pequeno,Integral,2,0,2,39,11.98,0.336,41.3781241,-73.4755929
+East Norwalk Library,Norwalk,Publico/Governamental,Level 2,Medio,Integral,4,0,4,132,18.27,0.2936,41.102079,-73.40565000000001
+Greenwich Southbound Travel Plaza - Tesla Supercharger,Greenwich,Comercio/Varejo,DC Fast,Medio,Integral Restrito,0,4,4,192,165.83,0.3175,41.040555,-73.673445
+Propark America - Omni Hotel Chapel Square Garage,New Haven,Hotel/Hospedagem,Level 2,Medio,Integral,2,0,4,133,18.58,0.341,41.305794,-72.927405
+Mystic Marriott Hotel and Spa - Tesla Destination,Groton,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,2,0,2,79,17.7,0.2942,41.365919,-72.025954
+Connecticut Post Mall - Target,Milford,Comercio/Varejo,Level 2,Pequeno,Horario Comercial,2,0,2,98,6.41,0.2502,41.235232,-73.038159
+SPIREP,Norwalk,Outro,Level 2,Pequeno,Integral,2,0,2,38,4.4,0.2209,41.0999699,-73.4165867
+Town of Norfolk - Town Clerk,Norfolk,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,37,4.9,0.3191,41.990635,-73.197598
+Waterford Commons,Waterford,Concessionaria,DC Fast,Medio,Integral,0,6,6,109,55.47,0.393,41.380138,-72.150349
+Clinton Town Hall,Clinton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,48,4.8,0.28,41.276743,-72.524041
+Cargill Chevrolet,Putnam,Outro,Level 2,Medio,Integral,3,0,3,108,14.16,0.3341,41.916161,-71.90810200000001
+Bedford Street Garage,Stamford,Concessionaria,Level 2,Medio,Variavel,4,0,4,114,4.43,0.3183,41.056092,-73.537286
+Pomfret Town Hall,Pomfret,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,37,8.37,0.2228,41.859648,-71.9986079999999
+Delamar Greenwich Harbor - Tesla Destination,Greenwich,Rede de Recarga,Level 2,Medio,Integral Restrito,3,0,3,67,16.73,0.2468,41.017757,-73.623525
+East Hartford Public Schools - Department of Facilities,East Hartford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,23,3.67,0.2373,41.784813,-72.602704
+Windham Municipal Parking Lot,Willimantic,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,41,16.25,0.3116,41.712492,-72.211716
+Heritage Hotel - Tesla Destination,Southbury,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,2,0,2,52,7.78,0.205,41.491538,-73.225707
+Tri-Town Teachers Federal Credit Union,Westport,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,61,5.18,0.2855,41.140188,-73.358893
+Morgan Street Garage,Hartford,Outro,Level 2,Medio,Integral,4,0,4,68,14.38,0.3144,41.769974,-72.672545
+NBCSG,Stamford,Outro,Level 2,Grande,Integral,8,0,8,120,13.3,0.3315,41.0532451,-73.5160366
+Napoli Nissan,Milford,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,13,17.25,0.2513,41.209761,-73.083686
+Congregational Church of Somersville,Somersville,Outro,Level 2,Pequeno,Integral,2,0,2,80,14.99,0.3232,41.983904,-72.489406
+I-95 Darien NB Service Plaza - Tesla Supercharger,Darien,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,10,10,481,291.04,0.3166,41.079848,-73.462202
+Town of Hamden - Spring Glen Municipal Parking Lot,Hamden,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,61,7.78,0.327,41.359826,-72.909054
+City of Milford - Parsons Government Center,Milford,Concessionaria,Level 2,Pequeno,Integral,1,0,1,14,6.12,0.2191,41.226575,-73.062364
+Hoffman Nissan,West Simsbury,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,28,15.23,0.2596,41.820371,-72.869319
+Premier Chevrolet,Brooklyn,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,23,16.13,0.3196,41.798222,-71.906607
+The Wallingford Victorian Inn - Tesla Destination,Wallingford,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,2,0,2,52,19.05,0.2225,41.45749,-72.815676
+HONDADANBURY,Danbury,Concessionaria,Level 2,Pequeno,Integral,2,0,2,40,9.86,0.2344,41.4158651,-73.4232598
+Village Center,East Hampton,Outro,Level 2,Pequeno,Integral,1,0,1,40,9.22,0.3083,41.575311,-72.501947
+Connecticut Department of Corrections,Wethersfield,Outro,Level 2,Pequeno,Integral,2,0,2,48,15.64,0.308,41.725002,-72.6724543999999
+Stamford Marriott Hotel - Tesla Destination,Stamford,Hotel/Hospedagem,Level 2,Medio,Integral Restrito,3,0,3,113,8.72,0.2962,41.051614,-73.53513900000002
+Woodbridge Town Library,Woodbridge,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,59,18.1,0.3041,41.353582,-73.011407
+Waterworks - Tesla Destination,Danbury,Rede de Recarga,Level 2,Pequeno,Integral Restrito,2,0,2,99,16.95,0.2814,41.370291,-73.491965
+Town of East Haven,East Haven,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,23,10.12,0.2378,41.277368,-72.871663
+DECORMIER NISS,Manchester,Outro,DC Fast,Pequeno,Integral,0,1,1,31,275.26,0.3519,41.813843,-72.5090873
+Lia Nissan - Enfield,Enfield,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,23,15.3,0.2272,41.997574,-72.574713
+North Canaan Shopping Center - Tesla Supercharger,North Canaan,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,8,8,447,80.94,0.4363,42.024351,-73.322808
+Lombard Ford,Barkhamsted,Concessionaria,Level 2,Pequeno,Horario Comercial,2,0,2,25,17.65,0.2875,41.909753,-73.042576
+Danbury Fair Mall,Danbury,Comercio/Varejo,DC Fast,Pequeno,Integral,0,2,2,114,201.58,0.3601,41.380158,-73.47904
+City of Milford - Public Library,Milford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,26,16.44,0.2693,41.221934,-73.053647
+Public Parking Lot,New Canaan,Outro,Level 2,Pequeno,Variavel,1,0,1,37,8.39,0.3421,41.1464,-73.4924
+Milford Travel Plaza - Tesla Supercharger,Milford,Concessionaria,DC Fast,Pequeno,Integral Restrito,0,2,2,29,318.66,0.323,41.245823,-73.009059
+TS,Greenwich,Outro,Level 2,Pequeno,Integral,2,0,2,54,9.49,0.2879,41.0983971,-73.7226456
+Russell Mercier Senior Center,Hebron,Outro,Level 2,Pequeno,Integral,2,0,2,58,3.47,0.2759,41.65659,-72.367191
+Roger Ludlowe School,Fairfield,Publico/Governamental,Level 2,Pequeno,Variavel,2,0,2,55,17.7,0.2917,41.148757,-73.261769
+Town of Hebron,Hebron,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,94,4.75,0.2027,41.658572,-72.366742
+Southington Municipal Center,Southington,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,39,8.38,0.3308,41.606301,-72.87939
+Middletown School District - Middletown High School,Middletown,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,59,18.41,0.3398,41.576716,-72.681921
+Town of Groton - Town Hall Annex,Groton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,46,18.41,0.2848,41.341893000000006,-72.009806
+TOWN HALL,Guilford,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,90,12.42,0.3045,41.2832367,-72.6798002
+TRUMBULL MALL,Trumbull,Comercio/Varejo,Level 2,Pequeno,Integral,2,0,2,85,13.35,0.3384,41.2286526,-73.2246399
+Parthenon Diner of Old Saybrook - Tesla Destination,Old Saybrook,Rede de Recarga,Level 2,Pequeno,Integral Restrito,1,0,1,54,10.43,0.3061,41.292172,-72.38345
+Western Connecticut State University,Danbury,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,46,7.96,0.2229,41.394446,-73.492801
+BIG Y FOODS,Norwich,Outro,Level 2,Pequeno,Integral,2,0,2,32,8.53,0.2864,41.505790000000005,-72.12423
+Ridgeway Shopping Center,Stamford,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,31,251.76,0.391,41.068654,-73.545939
+Clark Memorial Library,Bethany,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,59,15.26,0.2636,41.427276,-72.99499
+City of New Haven - Orchard Sherman Parking Lot,New Haven,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,96,15.89,0.3105,41.306583,-72.944576
+Town of Westport - Westport Metro North,Westport,Publico/Governamental,Level 2,Pequeno,Integral,1,0,2,85,15.85,0.3402,41.119291,-73.369266
+Greenwich Northbound Travel Plaza - Tesla Supercharger,Greenwich,Comercio/Varejo,DC Fast,Medio,Integral Restrito,0,4,4,182,77.36,0.4388,41.041538,-73.671661
+Central Connecticut State University- Welte Garage,New Britain,Publico/Governamental,Level 2,Medio,Integral,3,0,3,66,11.16,0.2676,41.692299,-72.769268
+Isham Garage,West Hartford,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,42,4.22,0.217,41.760873,-72.740521
+GENE LANGAN VW,Glastonbury,Concessionaria,Level 2,Pequeno,Integral,2,0,2,58,12.04,0.3477,41.704415,-72.593366
+I-91 Tech Park,Rocky Hill,Outro,Level 2,Pequeno,Integral,2,0,2,52,10.32,0.3258,41.641774,-72.676125
+Homestead Inn - Tesla Destination,New Milford,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,2,0,2,46,17.41,0.2187,41.580889,-73.411005
+Western Connecticut State University,Danbury,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,74,8.88,0.3381,41.399432,-73.44475
+Grace Mayflower Inn and Spa - Tesla Destination,"Rte 47, Washington",Hotel/Hospedagem,Level 2,Medio,Integral Restrito,3,0,3,118,5.16,0.3305,41.628601,-73.305987
+I-95 Madison SB Service Plaza - Tesla Supercharger,Madison,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,10,10,572,92.9,0.3778,41.291902304928,-72.5793623215072
+Bishop's Orchards Farm Market,Guilford,Comercio/Varejo,Level 2,Pequeno,Integral,2,0,2,65,15.41,0.2887,41.290395,-72.695702
+Campus at Greenhill,Wallingford,Outro,Level 2,Medio,Horario Comercial,4,0,4,160,13.13,0.2599,41.478889,-72.775522
+Connecticut Department of Motor Vehicles,Cheshire,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,37,4.91,0.2082,41.5374181,-72.8935933
+Town of Glastonbury - Town Hall,Glastonbury,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,46,4.64,0.2503,41.706856,-72.611655
+Green’s Farms Railroad Station,Westport,Outro,Level 2,Pequeno,Integral,1,0,1,39,14.45,0.3204,41.122442,-73.315136
+Connecticut Insurance Exchange of Southington,Plantsville,Outro,Level 2,Pequeno,Integral,1,0,1,21,4.46,0.2007,41.564358,-72.88305
+HOFFMAN HONDA 1,Simsbury,Concessionaria,Level 2,Medio,Integral,4,0,4,123,16.37,0.25,41.818224,-72.869331
+CT RAIL,Berlin,Outro,Level 2,Pequeno,Integral,2,0,2,30,14.53,0.2597,41.6356154,-72.7653384
+Three Rivers Community College,Norwich,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,33,4.59,0.2806,41.510596,-72.10451
+Town of Stafford - Public Works Garage,Stafford Springs,Concessionaria,Level 2,Pequeno,Integral,1,0,1,27,4.65,0.338,41.984164,-72.290233
+Woodbridge Town Hall,Woodbridge,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,90,18.99,0.252,41.354138,-73.014176
+Steelpointe Harbor,Bridgeport,Outro,Level 2,Medio,Variavel,4,0,4,176,9.25,0.252,41.1781223,-73.18122320000002
+COMM LOT STA 1,Bethel,Outro,Level 2,Pequeno,Integral,2,0,2,78,9.19,0.3106,41.3703626,-73.4145557
+The Promenade Shops at Evergreen Walk - Tesla Destination,South Windsor,Rede de Recarga,Level 2,Pequeno,Integral,2,0,2,102,16.22,0.2678,41.812203,-72.556345
+TOWN OF PUTNAM,Putnam,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,59,18.36,0.2337,41.914513,-71.9098896
+Maritime Garage,Norwalk,Outro,Level 2,Pequeno,Integral Restrito,1,0,1,23,18.98,0.2679,41.104278,-73.418955
+GE WS - Price Chopper #243 Storrs CT 2,Mansfield,Outro,Level 2,Pequeno,Integral,1,0,1,17,15.28,0.2211,41.801976,-72.241315
+Stratford Square,Stratford,Concessionaria,DC Fast,Grande,Integral,0,8,8,117,162.88,0.3265,41.198018,-73.122342
+Cumberland Farms,West Hartford,Outro,DC Fast,Pequeno,Integral,0,1,1,20,75.05,0.3748,41.741696,-72.718112
+City of New Haven - Air Rights Garage,New Haven,Publico/Governamental,Level 2,Medio,Integral,5,0,5,121,15.66,0.2628,41.305265,-72.934141
+Lime Rock Park - Tesla Destination,Lakeville,Rede de Recarga,Level 2,Grande,Integral Restrito,11,0,11,676,12.18,0.3372,41.930342,-73.389367
+Danbury Fair Mall - Tesla Supercharger,Danbury,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,10,10,299,177.27,0.3544,41.379441,-73.477961
+Western Connecticut State University,Danbury,Publico/Governamental,Level 2,Medio,Integral,4,0,4,193,17.71,0.2871,41.398492,-73.443485
+Coventry High School,Coventry,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,41,5.07,0.2948,41.782923,-72.313767
+Bell Street Garage,Stamford,Outro,Level 2,Medio,Variavel,3,0,3,45,11.13,0.202,41.052215,-73.540733
+Groton New London Airport,Groton,Outro,Level 2,Pequeno,Integral,2,0,2,66,3.48,0.2995,41.332527,-72.044683
+TEN TEN WASH,Stamford,Outro,Level 2,Pequeno,Integral,2,0,2,48,10.75,0.2267,41.0535888,-73.5431681
+RSI EAST,Southington,Outro,Level 2,Pequeno,Integral,2,0,2,52,4.2,0.3442,41.618456,-72.8973437
+University of Connecticut - School of Law,Hartford,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,83,5.19,0.2223,41.772484,-72.70705
+CROWLEY VW,Plainville,Concessionaria,Level 2,Pequeno,Integral,2,0,2,40,5.17,0.2622,41.6771741,-72.8411522
+Homewood Suites,Orange,Hotel/Hospedagem,Level 2,Grande,Variavel,8,0,8,295,13.62,0.2128,41.252117,-72.998271
+Asnuntuck Community College,Enfield,Publico/Governamental,Level 2,Medio,Integral,3,0,3,118,15.16,0.3495,42.0000268,-72.5697849
+Fairfield NB - Tesla Supercharger,Fairfield,Rede de Recarga,DC Fast,Grande,Integral Restrito,0,12,12,684,225.01,0.3753,41.146214,-73.257123
+Connecticut Department of Energy and Environmental Protection - Marine Headquarters,Old Lyme,Outro,Level 2,Pequeno,Integral,2,0,2,46,18.6,0.2893,41.312148,-72.345572
+Precision Motors of Mystic,Mystic,Outro,Level 2,Pequeno,Integral,2,0,2,68,9.26,0.2101,41.390465,-71.988657
+Wesleyan University,Middletown,Publico/Governamental,Level 2,Medio,Integral,4,0,4,136,7.84,0.3125,41.550883,-72.662214
+BMW BRIDGEPORT,Bridgeport,Concessionaria,Level 2,Pequeno,Integral,2,0,2,61,17.11,0.2315,41.2020685,-73.1897466
+Connecticut State Capitol,Hartford,Outro,Level 2,Pequeno,Integral,2,0,2,62,6.86,0.3347,41.764759,-72.682868
+Executive Nissan,North Haven,Concessionaria,DC Fast,Pequeno,Horario Comercial,1,1,2,56,338.97,0.3308,41.360892,-72.870997
+Propark Harbor Point Gateway Garage - Tesla Destination,Stamford,Rede de Recarga,Level 2,Pequeno,Integral,2,0,2,102,3.49,0.2286,41.045384000000006,-73.543258
+Wallingford Shopping Center,Wallingford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,36,18.72,0.2055,41.483774,-72.807124
+Fairfield Parks and Recreation Center,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,88,3.99,0.2708,41.142152,-73.263962
+The Westport Library,Westport,Publico/Governamental,Level 2,Pequeno,Variavel,2,0,2,46,17.47,0.2847,41.1396711,-73.3613829
+Homestead Inn - Thomas Henkelmann - Tesla Destination,Greenwich,Hotel/Hospedagem,Level 2,Medio,Integral Restrito,3,0,3,43,11.69,0.2099,41.015276,-73.634045
+MORSCHES FF,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,34,19.09,0.3163,41.1399023,-73.2564712
+Panera Bread,Wethersfield,Outro,Level 2,Pequeno,Integral,1,0,1,31,4.47,0.268,41.691611,-72.656507
+Hoffman Toyota,West Simsbury,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,13,12.11,0.2787,41.818345,-72.867973
+Ferguson Library - Harry Bennett Branch,Stamford,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,68,18.71,0.2661,41.099044,-73.544039
+City of Hartford - Department of Public Works,Hartford,Concessionaria,Level 2,Pequeno,Integral,1,0,1,26,11.62,0.2601,41.785974,-72.652406
+Hammonasset Beach State Park - North,Madison,Outro,Level 2,Medio,Integral,4,0,4,124,13.31,0.2839,41.26449,-72.561988
+Metro Center Garage,Stamford,Outro,Level 2,Pequeno,Variavel,1,0,1,41,14.36,0.2233,41.0457112,-73.54198740000001
+Middletown Nissan,Middletown,Concessionaria,Level 2,Medio,Horario Comercial,3,1,4,86,186.36,0.2273,41.59054,-72.676141
+Wesleyan University,Middletown,Publico/Governamental,Level 2,Medio,Integral,2,0,3,52,13.28,0.3293,41.553597,-72.65395
+Newington Town Center - Municipal Parking Lot,Newington,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,35,12.59,0.3419,41.696446,-72.721392
+Ridgeway Shopping Center - Tesla Supercharger,Stamford,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,12,12,655,320.35,0.356,41.068704,-73.546435
+Connecticut Post Mall - NW Entrance,Milford,Comercio/Varejo,Level 2,Pequeno,Horario Comercial,2,0,2,93,4.02,0.2406,41.23608,-73.036899
+Girard Nissan,Groton,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,25,7.77,0.2966,41.370989,-72.054118
+Milford Travel Plaza - Tesla Supercharger,Milford,Concessionaria,DC Fast,Pequeno,Integral Restrito,0,2,2,26,335.12,0.3613,41.246242,-73.010522
+Goodwin University,East Hartford,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,33,17.46,0.2038,41.743194,-72.640075
+Greater Hartford Transit District - Spruce Street Lot,Hartford,Concessionaria,Level 2,Pequeno,Integral,1,0,2,21,10.54,0.2234,41.769417,-72.68182500000002
+Illiano's Restaurant,Yantic,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,33,13.16,0.3074,41.55775,-72.113144
+Town of Hamden - Police Department,Hamden,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,96,7.71,0.2988,41.384051,-72.903596
+Fairfield Senior Center,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,32,6.29,0.2041,41.132277,-73.26088
+Butler Street Parking Lot,Meriden,Outro,Level 2,Pequeno,Integral,2,0,2,70,10.67,0.2333,41.53697,-72.805988
+Propark - 777 Main,Hartford,Outro,Level 2,Muito Grande,Variavel,17,1,18,468,156.01,0.2347,41.766034,-72.67363400000002
+JOHN ST CHARGER,Bridgeport,Outro,Level 2,Pequeno,Integral,2,0,2,80,12.58,0.3008,41.1772308,-73.1911131
+Peck Lane Plaza Shopping Center,Orange,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,26,73.32,0.303,41.251801,-73.017784
+PRESTIGE VW,Stamford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,51,18.79,0.2156,41.0553525,-73.5464906
+Fairfield Recreation Center,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,36,18.98,0.32,41.14221200000001,-73.264636
+Norwalk Community College,Norwalk,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,81,14.4,0.2268,41.102848,-73.452539
+LAZ Fly Airport Parking,Windsor Locks,Outro,Level 2,Pequeno,Integral,2,0,2,50,11.82,0.2979,41.918347,-72.672748
+CT RAIL,Meriden,Outro,Level 2,Pequeno,Integral,2,0,2,76,8.22,0.2357,41.5394301,-72.8007814
+Killingly Town Hall,Killingly,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,45,16.24,0.2149,41.80577,-71.88232300000001
+Central Connecticut State University - Welte Hall Parking Lot,New Britain,Publico/Governamental,Level 2,Medio,Integral,3,0,3,102,14.19,0.2365,41.693501,-72.768107
+The Inn at Woodstock Hill,Woodstock,Hotel/Hospedagem,Level 2,Pequeno,Integral,1,0,2,36,5.89,0.3083,41.94378281,-71.97262186000002
+Wilton Public Library,Wilton,Publico/Governamental,Level 2,Pequeno,Horario Comercial,1,0,1,41,17.78,0.3284,41.192802,-73.43124
+HAJJAR,Middletown,Outro,Level 2,Pequeno,Integral,2,0,2,38,16.38,0.3245,41.5590961,-72.65018090000001
+Goodwin University,East Hartford,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,74,18.4,0.2596,41.749499,-72.639362
+Stony Creek Brewery - Tesla Destination,Branford,Rede de Recarga,Level 2,Pequeno,Integral,1,0,1,24,14.84,0.3002,41.274658,-72.812491
+Big Y,Cheshire,Outro,Level 2,Pequeno,Integral,2,0,2,40,13.05,0.2307,41.476271,-72.907523
+Connecticut Post Mall - Dave & Buster's,Milford,Comercio/Varejo,Level 2,Pequeno,Horario Comercial,2,0,2,93,9.95,0.244,41.23636,-73.033472
+City of Middletown - Mellili Plaza Public Parking,Middletown,Publico/Governamental,Level 2,Grande,Integral,12,0,12,330,18.13,0.3345,41.561647,-72.648056
+Ford of Branford,Branford,Concessionaria,Level 2,Pequeno,Horario Comercial,2,0,2,42,17.07,0.202,41.292505000000006,-72.789844
+Morton Government Center,Bridgeport,Outro,Level 2,Pequeno,Integral,1,0,1,30,4.02,0.2128,41.177007,-73.191423
+Town of Groton - Public Library,Groton,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,33,3.72,0.2312,41.347552,-72.028928
+Burlington Library,Burlington,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,50,9.29,0.204,41.771305,-72.967327
+Bruce Bennett Nissan,Wilton,Concessionaria,DC Fast,Pequeno,Horario Comercial,1,1,2,58,293.17,0.3272,41.258992,-73.435546
+Park 'N Fly - Bradley International Airport,Suffield,Outro,Level 2,Pequeno,Integral Restrito,2,0,2,82,19.0,0.2875,41.951328,-72.663078
+Van Wilgen's Garden Center,North Branford,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,20,5.69,0.2632,41.306955,-72.766102
+REYNOLDS SUBARU,Lyme,Concessionaria,Level 2,Pequeno,Integral,2,0,2,42,12.75,0.3339,41.3890729,-72.3518219
+Tingue Dam Bypass Channel - Wakeley Street Parking Lot,Seymour,Outro,Level 2,Pequeno,Integral,2,0,2,86,9.36,0.3226,41.394315000000006,-73.075525
+Mohegan Sun,Uncasville,Outro,Level 2,Medio,Integral,4,0,4,68,18.72,0.2513,41.491597,-72.091456
+COMCAST,Enfield,Outro,Level 2,Medio,Integral,4,0,4,136,16.69,0.2389,41.977252,-72.581611
+Greenlots - 92143,Fairfield,Outro,Level 2,Pequeno,Integral,2,0,2,84,16.63,0.257,41.163146,-73.23358
+777 Main Street - Tesla Supercharger,Hartford,Rede de Recarga,DC Fast,Medio,Integral Restrito,0,6,6,369,190.61,0.3885,41.766493,-72.674129
+BMW RIDGEFIELD,Ridgefield,Concessionaria,DC Fast,Pequeno,Integral,0,1,1,12,174.45,0.3402,41.3305782,-73.4722156
+"DoubleTree by Hilton - Norwalk, CT - Tesla Destination",Norwalk,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,1,0,1,29,7.65,0.2936,41.092037,-73.453043
+BIG Y FOODS,Ellington,Outro,Level 2,Pequeno,Integral,2,0,2,80,4.2,0.2614,41.888958,-72.46388
+Wrap N Shine Auto Spa - Tesla Destination,Shelton,Rede de Recarga,Level 2,Pequeno,Integral Restrito,1,0,1,25,17.05,0.2828,41.310498,-73.097982
+Western Connecticut State University,Danbury,Publico/Governamental,Level 2,Medio,Integral,3,0,3,108,16.23,0.2654,41.39936,-73.442053
+MINI OF FFD CTY,Darien,Outro,Level 2,Pequeno,Integral,2,0,2,68,19.2,0.2442,41.089032,-73.4569573
+Delamar West Hartford - Tesla Destination,West Hartford,Concessionaria,Level 2,Medio,Integral Restrito,3,0,3,44,19.15,0.3423,41.760566,-72.737672
+Connecticut Department of Motor Vehicles,Wethersfield,Outro,Level 2,Pequeno,Horario Comercial,1,0,1,34,12.13,0.3145,41.71866250000001,-72.655754
+Mill Plain Diner - Tesla Destination,Danbury,Rede de Recarga,Level 2,Pequeno,Integral Restrito,1,0,1,34,15.53,0.221,41.38756,-73.494706
+Sherman Green,Fairfield,Outro,Level 2,Pequeno,Integral,1,0,1,15,18.32,0.3303,41.140584,-73.256774
+Stamford Government Center Garage,Stamford,Concessionaria,Level 2,Medio,Integral,3,0,3,46,16.81,0.2731,41.051637,-73.542499
+Z Airport Parking,East Granby,Outro,Level 2,Pequeno,Integral,1,0,1,21,7.23,0.3342,41.928233,-72.709138
+Hyatt Regency Greenwich - Tesla Destination,Greenwich,Rede de Recarga,Level 2,Pequeno,Integral Restrito,2,0,2,96,10.46,0.32,41.046329,-73.566753
+Surface Parking Lot,New Britain,Outro,Level 2,Pequeno,Integral,2,0,2,44,5.35,0.2638,41.666233,-72.781161
+Deep River Library,Deep River,Publico/Governamental,Level 2,Pequeno,Integral Restrito,1,0,2,33,18.47,0.2034,41.386805,-72.43670100000001
+State House Square,Hartford,Outro,Level 2,Pequeno,Integral,1,0,1,25,12.94,0.2403,41.766822,-72.671417
+City of Milford - Train Station Parking,Milford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,58,6.94,0.2812,41.222682,-73.060012
+Hammonasset Beach State Park - Meig's Point Nature Center,Madison,Outro,Level 2,Medio,Integral,4,0,4,156,13.98,0.295,41.251952,-72.546017
+Grossman Nissan,Old Saybrook,Concessionaria,DC Fast,Pequeno,Horario Comercial,1,1,2,54,235.44,0.3387,41.309276,-72.383105
+"Saybrook Point Inn, Spa & Marina - Tesla Destination",Old Saybrook,Hotel/Hospedagem,Level 2,Medio,Integral Restrito,4,0,4,115,8.99,0.2209,41.28331,-72.351072
+Fairfield Train Station Overflow Lot,Fairfield,Outro,Level 2,Pequeno,Integral,1,0,1,37,5.11,0.3252,41.142923,-73.264399
+Metro Center 1,Stamford,Outro,Level 2,Pequeno,Integral Restrito,1,0,1,44,13.98,0.3477,41.046112,-73.542177
+Dinosaur State Park and Arboretum,Rockyhill,Outro,Level 2,Pequeno,Horario Comercial,2,0,2,48,11.57,0.2789,41.651179,-72.658514
+Staples High School,Westport,Publico/Governamental,Level 2,Pequeno,Variavel,2,0,2,37,15.58,0.2258,41.1526176,-73.3304754
+Windham Town Hall,Windham,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,46,11.57,0.2408,41.71292,-72.217506
+West Hartford - Town Hall,West Hartford,Concessionaria,Level 2,Pequeno,Horario Comercial,2,0,2,58,16.85,0.2028,41.758754,-72.741204
+Connecticut Welcome Center - Tesla Supercharger,Darien,Rede de Recarga,DC Fast,Medio,Integral Restrito,0,4,4,180,215.57,0.4371,41.080103,-73.46135
+City of New Haven - Temple Street Garage,New Haven,Publico/Governamental,Level 2,Medio,Integral,3,0,3,132,12.22,0.2177,41.304245,-72.928369
+Minor Memorial Library,Roxbury,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,33,17.24,0.2865,41.55358,-73.30764000000002
+Szczesny Parking Garage,New Britain,Outro,Level 2,Pequeno,Integral,2,0,2,78,9.72,0.2411,41.666879,-72.78037
+GE WS - Price Chopper #243 Storrs CT 1,Mansfield,Outro,Level 2,Pequeno,Integral,1,0,1,34,5.43,0.2831,41.80199700000001,-72.241254
+AAMCO EV,East Hartford,Outro,Level 2,Pequeno,Integral,2,0,2,84,3.76,0.2977,41.7632299,-72.65266880000001
+Winvian Farm - Tesla Destination,Morris,Rede de Recarga,Level 2,Medio,Integral Restrito,3,0,3,139,15.31,0.3245,41.697035,-73.201059
+Brass Mill Center - Entrance 3,Waterbury,Outro,Level 2,Medio,Horario Comercial,4,0,4,64,13.16,0.231,41.549008,-73.023973
+COMM LOT STA 1,Bethel,Outro,Level 2,Pequeno,Integral,2,0,2,30,14.49,0.2016,41.3762377,-73.4178034
+Waterbury-Oxford Airport,Oxford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,42,6.69,0.2205,41.477151000000006,-73.146142
+Shagbark Lumber and Farm Supply,East Haddam,Outro,Level 2,Pequeno,Integral,1,0,1,44,5.47,0.335,41.463278,-72.442533
+Metro Green Residential Parking - Tesla Destination,Stamford,Rede de Recarga,Level 2,Medio,Integral,3,0,3,117,3.53,0.3311,41.04514,-73.540098
+Hartford Road Henny Penny,Waterford,Concessionaria,Level 2,Pequeno,Horario Comercial,2,0,2,26,8.87,0.2896,41.3874871,-72.1591426
+FOXWOODS,Mashantucket,Outro,Level 2,Pequeno,Integral,2,0,2,38,12.68,0.2901,41.469981700000005,-71.9523342
+Convention Center - Hartford,Hartford,Concessionaria,Level 2,Medio,Integral,6,0,6,172,9.54,0.2998,41.762852,-72.668973
+County Line Buick-Nissan,Middlebury,Concessionaria,Level 2,Pequeno,Horario Comercial,1,0,1,25,10.26,0.2263,41.568122,-73.098764
+MYSTIC AQUARIUM,Mystic,Outro,DC Fast,Pequeno,Integral,0,1,1,23,321.25,0.4372,41.373074,-71.954088
+University of Connecticut - Waterbury,Waterbury,Publico/Governamental,Level 2,Pequeno,Integral,2,0,2,50,8.84,0.2628,41.555816,-73.038135
+Danbury Parking Authority,Danbury,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,37,11.47,0.2575,41.396042,-73.451059
+INFINITYGREEN,Stamford,Outro,Level 2,Pequeno,Integral,2,0,2,66,15.76,0.2778,41.040838,-73.5405387
+City of Hartford - City Hall,Hartford,Concessionaria,Level 2,Pequeno,Integral,1,0,1,21,9.61,0.207,41.762206,-72.672842
+White Hart Inn - Tesla Destination,Salisbury,Hotel/Hospedagem,Level 2,Pequeno,Integral Restrito,1,0,1,27,13.19,0.2249,41.98483,-73.42219800000001
+Premier Subaru,Branford,Concessionaria,Level 2,Pequeno,Integral,2,0,2,23,17.01,0.3107,41.287914,-72.813257
+Central Connecticut State University - Student Center Parking Garage,New Britain,Publico/Governamental,Level 2,Medio,Integral,3,0,3,112,18.4,0.2124,41.6938875513217,-72.7663278757019
+University of Connecticut - South Parking Garage,Storrs,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,83,5.64,0.2905,41.805152,-72.253601
+Carter Chevrolet,Vernon,Outro,Level 2,Medio,Horario Comercial,2,1,3,108,327.98,0.2368,41.8218766595564,-72.5009065449829
+Dunkin' Donuts,New Haven,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,49,197.63,0.3584,41.294167,-72.9
+Bloomfield Human Services Center,Bloomfield,Outro,Level 2,Pequeno,Variavel,2,0,2,30,7.41,0.2433,41.8234945,-72.712466
+Grand Central Fashion Plaza Shopping Center - Tesla Supercharger,North Stamford,Comercio/Varejo,DC Fast,Grande,Integral Restrito,0,8,8,395,187.74,0.3534,41.107722,-73.546513
+University of Connecticut - North Parking Garage,Storrs,Publico/Governamental,Level 2,Pequeno,Horario Comercial,2,0,2,74,18.88,0.3079,41.809176,-72.258277
+Fairfield SB - Tesla Supercharger,Fairfield,Rede de Recarga,DC Fast,Grande,Integral Restrito,0,8,8,300,197.79,0.3446,41.14807,-73.255573
+Fairfield Woods Library,Fairfield,Publico/Governamental,Level 2,Pequeno,Integral,1,0,1,34,8.53,0.285,41.187855,-73.250024
+Yankee Doodle,Norwalk,Outro,Level 2,Pequeno,Integral Restrito,1,0,1,22,13.37,0.2714,41.11803,-73.414932
+Lee Partyka Chevrolet Mazda Isuzu,Hamden,Outro,Level 2,Medio,Horario Comercial,3,0,3,54,7.12,0.2996,41.3729709,-72.9100121
+777 MAIN ST,Hartford,Outro,Level 2,Grande,Integral,10,1,11,220,72.76,0.3405,41.766676,-72.674468
+Norwich Public Utilities,Norwich,Outro,Level 2,Medio,Integral,4,0,4,88,5.35,0.3099,41.52757900000001,-72.063516
+Fairfield Plaza,New Milford,Comercio/Varejo,DC Fast,Pequeno,Integral,0,1,1,44,88.41,0.3322,41.55735,-73.41763
+Eastern Connecticut State University - Shakespeare Parking Garage,Willimantic,Publico/Governamental,Level 2,Medio,Integral,4,0,4,193,5.72,0.2047,41.7385909,-72.208134
