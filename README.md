@@ -1,5 +1,4 @@
 # Sprint-01-Challange-Godwe-2026-MLAM
-readme_content = """# CHALLENGE SPRINT 1
 ## Plataforma de Orquestração de Recarga Comercial de Veículos Elétricos
 
 ### RELATÓRIO TÉCNICO
