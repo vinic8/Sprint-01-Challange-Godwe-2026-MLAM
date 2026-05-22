@@ -119,9 +119,6 @@ A análise exploratória da base de dados de estações de recarga de veículos 
 * **Base de dados:** Electric Vehicle Charging Stations — Connecticut Open Data. Disponível em: data.ct.gov. Acesso em: maio de 2026.
 * **Open Charge Point Protocol (OCPP) — Open Charge Alliance.** Disponível em: openchargealliance.org.
 * **MODBUS Protocol Specification — Modbus Organization.** Disponível em: modbus.org.
-"""
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
 
 print("File README.md successfully created.")
