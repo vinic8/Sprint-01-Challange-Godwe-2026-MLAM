@@ -6,12 +6,12 @@ readme_content = """# CHALLENGE SPRINT 1
 #### Análise Exploratória de Dados — Estações de Recarga EV
 
 **Integrantes:**
-* [Vinicius Molena] — Matrícula: [571270]
-* [Matheus Ferreira] — Matrícula: [569638]
-* [Nathan Werner] — Matrícula: [572925]
-* [Gabriel Vilas] — Matrícula: [571603]
-* [Gustavo Henrique] — Matrícula: [569921]
-* [Ricardo Santos] — Matrícula: [569600]
+* [Vinicius Molena] — RM: [571270]
+* [Matheus Ferreira] — RM: [569638]
+* [Nathan Werner] — RM: [572925]
+* [Gabriel Vilas] — RM: [571603]
+* [Gustavo Henrique] — RM: [569921]
+* [Ricardo Santos] — RM: [569600]
 
 **Data:** Maio de 2026
 
